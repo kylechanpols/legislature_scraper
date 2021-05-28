@@ -1,6 +1,6 @@
 # A Python Program to Scrap Legislature Databases
 
-This is the Github Repository for the a python program to scrap legislature databases that I wrote for a previous project of mine.
+This is the Github Repository for a python program to scrap legislature databases that I wrote for a previous project of mine.
 
 There are three files in this program:
 
