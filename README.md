@@ -2,7 +2,7 @@
 
 This is the Github Repository for a python program to scrap legislature databases that I wrote for a previous project of mine.
 
-There are three files in this program:
+The following is a description of the files in this program:
 
 `getlinks.py` - A program to recover a list of download links
 
